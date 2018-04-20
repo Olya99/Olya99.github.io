@@ -1,3 +1,9 @@
+theme: jekyll-theme-cayman
+title: Welcome to the olya's homepage
+description: Feel free bookmark thi to keep an eye on my project updates
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Olya99/Olya99.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
